@@ -7,7 +7,6 @@ function App() {
     "JavaScript",
     "React.js",
     "Node.js",
-    "Express.js",
     "Python",
     "Java",
     "C",
@@ -15,7 +14,7 @@ function App() {
     "Git",
     "GitHub",
     "MySQL",
-    "Firebase",
+
   ];
 
   return (
@@ -37,7 +36,7 @@ function App() {
       <section className="hero">
         <div className="hero-content">
           <h1>
-            Hi, I'm <span>Your Name</span>
+            Hi, I'm <span>Krutika Sapatale</span>
           </h1>
 
           <h2>Student Developer</h2>
@@ -106,8 +105,7 @@ function App() {
           </div>
 
           <div className="project-links">
-            <a href="/">GitHub Link</a>
-            <a href="/">Live Demo</a>
+            <a href="/">https://github.com/krutika458</a>
           </div>
         </div>
       </section>
@@ -118,9 +116,9 @@ function App() {
 
         <div className="education-card">
           <h3>Current Education</h3>
-          <p>[Course / Degree Name]</p>
-          <p>[School / College Name]</p>
-          <p>Expected Graduation: [Year]</p>
+          <p>[Diploma:Computer Engineering]</p>
+          <p>[College:Bhausaheb vartak polytechnic]</p>
+          
         </div>
       </section>
 
@@ -132,8 +130,8 @@ function App() {
           <h3>Microsoft Certification</h3>
 
           <p>
-            Successfully completed a Microsoft Certification program,
-            demonstrating technical knowledge and problem-solving skills.
+            Successfully completed the AI Skills Passport program offered by EY and Microsoft,
+            gaining foundational knowledge in Artificial Intelligence, technology, and professional workplace skills.
           </p>
         </div>
       </section>
@@ -145,24 +143,21 @@ function App() {
         <div className="contact-grid">
           <div className="contact-card">
             <h4>Email</h4>
-            <p>your.email@example.com</p>
+            <p>krutikasapatale26.email@example.com</p>
           </div>
 
           <div className="contact-card">
             <h4>GitHub</h4>
-            <p>github.com/yourusername</p>
+            <p>github.com/krutika458</p>
           </div>
 
-          <div className="contact-card">
-            <h4>LinkedIn</h4>
-            <p>linkedin.com/in/yourusername</p>
-          </div>
+          
         </div>
       </section>
 
       {/* Footer */}
       <footer>
-        <p>© 2026 Your Name. All Rights Reserved.</p>
+        <p>© 2026 krutika. All Rights Reserved.</p>
       </footer>
 
       {/* Scroll Top */}
